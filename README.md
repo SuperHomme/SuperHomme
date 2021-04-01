@@ -1,4 +1,4 @@
-👋 Hi, I’m @SuperHomme, interested in any opportunities to show some talent.
+👋 Hi, I’m @SuperHomme, young full stack web developer, and interested in any opportunities to show some talent.
 
 <!---
 SuperHomme/SuperHomme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
